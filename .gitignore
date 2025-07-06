@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+win_logs.json
+ngrok.log
+.DS_Store
